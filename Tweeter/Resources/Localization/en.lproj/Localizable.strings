@@ -1,0 +1,20 @@
+//
+//  Localizable.strings
+//  Tweeter
+//
+//  Created by DUYLINH on 5/03/19.
+//  Copyright © 2019 DUYLINH. All rights reserved.
+//
+
+"tweeter"                                           =   "Tweeter";
+"new_tweeter"                                       =   "New Tweet";
+"cancel"                                            =   "Cancel";
+"ok"                                                =   "OK";
+"tweet"                                             =   "Tweet";
+
+"what_happen"                                       =   "What's happening?";
+
+"msg_tweet_empty"                                   =   "Please enter your message";
+"msg_tweet_indicatorLengthExceed"                   =   "Your message is too long. Please cut it down!";
+"msg_tweet_wordLengthExceed"                        =   "The message contains a span of non-whitespace characters longer than \(length) characters";
+

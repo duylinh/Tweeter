@@ -1,0 +1,19 @@
+//
+//  Localizable.strings
+//  Tweeter
+//
+//  Created by DUYLINH on 5/03/19.
+//  Copyright © 2019 DUYLINH. All rights reserved.
+//
+
+"tweeter"                                           =   "Tweeter";
+"new_tweeter"                                       =   "Tweet mới";
+"cancel"                                            =   "Huỷ bỏ";
+"ok"                                                =   "Đống ý";
+"tweet"                                             =   "Tweet";
+
+"what_happen"                                       =   "Bạn đang nghĩ gì?";
+
+"msg_tweet_empty"                                   =   "Vui lòng nhập nội dung tin nhắn";
+"msg_tweet_indicatorLengthExceed"                   =   "Tin nhắn của bạn quá dài!";
+"msg_tweet_wordLengthExceed"                        =   "Tin nhắn chứa một khoảng các ký tự không phải khoảng trắng dài hơn \(length) ký tự ";
